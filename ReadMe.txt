@@ -1,0 +1,1 @@
+AI App pentru generare reteta in functie de ce ingrediente ai acasa si ce macronutrienti ai nevoie (input data). Se poate si tracking la ce ai manca tin functie de ce ii zici tu prin voice. 
